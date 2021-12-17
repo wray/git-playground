@@ -23,3 +23,4 @@ Note, I am proposing the tagging strategy we had used back in the day for alfa r
 * At this point dev will be 1 commit behind master (no commits ahead)
 * So, simply merge master to dev
 * Dev and Master will be in sync and with the same tip commit (the same commit that has been tagged).
+* Now, you can go back and create the release from the tag and autogenerate the notes
