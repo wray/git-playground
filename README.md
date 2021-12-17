@@ -4,6 +4,8 @@
 
 ## Feature Two
 
+## Feature Three
+
 ## Feature Four
 
 ## Steps
