@@ -9,6 +9,7 @@
 ## Feature Four
 
 ## Steps
+Note, these steps do not include the tagging. I would suggest using `git tag`.
 
 * Generate PR for a feature branch to dev
 * When approving/merging the PR/branch, squash and merge
