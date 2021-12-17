@@ -14,7 +14,7 @@
 * When approving/merging the PR/branch, squash and merge
 * This creates a new merge commit on dev that contains all the commits
 * Generate a PR for the group of features (a release) to main
-* When approving/merging the PR/branch, merge
+* When approving/merging the PR/branch, merge (only)
 * This creates a new merge commit that contains the features as sub-commits
 * At this point dev will be 1 commit behind master (no commits ahead)
 * So, simply merge master to dev
