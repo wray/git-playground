@@ -8,8 +8,14 @@
 
 ## Feature Four
 
+## Feature Five
+
+## Feature Six
+
+## Feature Seven
+
 ## Steps
-Note, I am proposing the tagging strategy we had used back in the day for alfa releases.
+Note, I am proposing the tagging strategy we had used back in the day for releases.
 
 * Generate PR for a feature branch to dev
 * When approving/merging the PR/branch, squash and merge
