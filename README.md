@@ -8,6 +8,10 @@
 
 ## Feature Four
 
+## Feature Five
+
+## Feature Eight
+
 ## Steps
 Note, I am proposing the tagging strategy we had used back in the day for alfa releases.
 
