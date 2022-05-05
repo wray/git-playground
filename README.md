@@ -35,7 +35,7 @@
 * Dev: When all work is done, including design, tests, regression, release notes, mark as ready-for-review
 * Dev: Respond to requests for changes until approval minimums are met
 * Team Lead(s): SQUASH and merge
-* Team Lead(s) / Dev: Do not close the issue until the pull commit is included in an RC.
+* Team Lead(s) / Dev: Move issue to "Done" on Team Board, but do not close issue.
 
 ## Release Steps
 Note, I am proposing the tagging strategy we had used back in the day for alfa releases.
