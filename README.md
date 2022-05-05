@@ -24,7 +24,7 @@
   * Bonus Points for providing best case/worst case WIP cycle time
   * Bonus Points if there is already a draft RC that should include this work
   * create branch *if on latest GH version*
-* Team Lead(s): In issue choose Up Next to signal groomed
+* Team Lead(s): In issue untag "not ready" to signal groomed
 * Dev: "Grab" issue:
   * Assign self and partners if pair+ solving 
   * *in issue choose in progress to signal wip* -- for repos with a develop branch
@@ -34,6 +34,8 @@
 * Dev: On PR - Deliberately add at least two peer reviewers and one lead
 * Dev: When all work is done, including design, tests, regression, release notes, mark as ready-for-review
 * Dev: Respond to requests for changes until approval minimums are met
+* Team Lead(s): SQUASH and merge
+* Team Lead(s) / Dev: Do not close the issue until the pull commit is included in an RC.
 
 ## Release Steps
 Note, I am proposing the tagging strategy we had used back in the day for alfa releases.
